@@ -73,8 +73,6 @@ Bu proje, C# programlama dili kullanılarak geliştirilmiş bir teknik servis ot
 4. Değişikliklerinizi push edin: `git push origin ozellik/yeni-ozellik`.
 5. Bir Pull Request (PR) oluşturun.
 
-## Lisans
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 
 ## İletişim
 Sorularınız veya önerileriniz için enes.krkya1453@gmail.com adresine ulaşabilir veya GitHub Issues üzerinden bir sorun bildirebilirsiniz.
